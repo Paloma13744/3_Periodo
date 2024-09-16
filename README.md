@@ -6,8 +6,8 @@ Bem-vindo ao repositório dos programas desenvolvidos nas disciplinas de **AEDI 
 
 O repositório está organizado da seguinte forma:
 
-- **AEDI II**: 📘 Contém programas relacionados à disciplina de Algoritmos e Estruturas de Dados II.
-- **Engenharia de Software I**: 📗 Contém programas e projetos desenvolvidos na disciplina de Engenharia de Software I.
+- **AEDI II**: Contém programas relacionados à disciplina de Algoritmos e Estruturas de Dados II.
+- **Engenharia de Software I**: Contém programas e projetos desenvolvidos na disciplina de Engenharia de Software I.
 
 ## Programas em Java ☕️
 
