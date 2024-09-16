@@ -26,9 +26,4 @@ Os programas são implementados em Java e podem ser executados em qualquer ambie
 - **Java Development Kit (JDK) 11 ou superior** ☕
 - **IDE de sua escolha (NetBeans, Eclipse, IntelliJ IDEA, etc.)** 💻
 
-## Como Executar os Programas 🚀
 
- **Clone o Repositório:**
-
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
