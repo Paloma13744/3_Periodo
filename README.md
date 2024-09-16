@@ -15,10 +15,10 @@ Os programas são implementados em Java e podem ser executados em qualquer ambie
 
 ### Estrutura dos Diretórios 🗂️
 
-- **/AEDII**: Contém os programas da disciplina de AEDI II.
+- **AEDII**: Contém os programas da disciplina de AEDI II.
   - **Programas**: Código-fonte, exemplos e exercícios práticos.
   
-- **/EngenhariaSoftwareI**: Contém os projetos da disciplina de Engenharia de Software I.
+- **EngenhariaSoftwareI**: Contém os projetos da disciplina de Engenharia de Software I.
   - **Projetos**: Código-fonte dos projetos desenvolvidos durante o curso.
 
 ## Requisitos 🛠️
